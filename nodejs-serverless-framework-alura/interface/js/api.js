@@ -1,0 +1,1 @@
+const BASE_URL = 'https://1lc1rm2ayh.execute-api.us-east-1.amazonaws.com/api';
